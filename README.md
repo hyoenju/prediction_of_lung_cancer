@@ -11,7 +11,7 @@
 
 ## 프로젝트 팀원
 
-- [이재호](https://github.com/antmna)
+- [이재호](https://github.com/antmna) (jhlee7773@naver.com)
 - [김성철](https://github.com/SeongCheol-Kim) (sckim219@gmail.com)
 - [서자영](https://github.com/jayoungseo) (tjwkdud0423@gmail.com)
 - [이현주](https://github.com/hyoenju) (l67378810@gmail.com)
