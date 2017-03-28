@@ -7,6 +7,12 @@
 이 프로젝트에서는 환자의 흉부 CT 사진을 분석하여 1년 뒤 폐암 발생 여부를 예측하는 모델을 구축합니다. <br>
 예측모델을 구축한 이후에는 환자의 CT 사진을 이용하여 해당 환자의 폐암 발생 가능성에 대해 보여주는 시스템을 개발합니다.
 
+## 예시
+아래 사진은 폐암환자의 흉부CT 사진입니다.
+화살표 안쪽의 좌측폐에서 발견 종양의 크기가 상당히 크게 보이고 있습니다.
+<br><br>
+![폐암환자 흉부CT](http://www.mdrc.co.kr/home/editor/upload/editor/admin/20150819_2051008634.jpg)
+
 ## DataSet
 Kaggle 대회 중 Data Science Bowl 2017의 데이터를 활용함 (https://www.kaggle.com/c/data-science-bowl-2017/data)
  - x data : DICOM 형식의 이미지 데이터 
