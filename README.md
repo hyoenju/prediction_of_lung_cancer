@@ -1,4 +1,4 @@
-# prediction of lung cancer: CT 사진을 이용한 폐암 예측 프로젝트
+# prediction of lung cancer: <p> CT 사진을 이용한 폐암 예측 프로젝트 </p>
 
 가천대학교 2017학년도 1학기 산업경영공학과 BI(Business Intelligence) 수업의 prediction_of_lung_cancer 프로젝트 페이지입니다.
 
